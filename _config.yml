@@ -1,3 +1,20 @@
-theme: jekyll-theme-minimal
+# --- 主题设置 ---
+theme: jekyll-theme-clean-blog
+
+# --- 网站信息 ---
 title: Junhan's Blog
-description: 欢迎来到宁俊涵的博客！
+author: 你的名字
+email: your-email@example.com
+description: >- # 网站的简短描述
+  欢迎来到宁俊涵的博客！
+baseurl: "" # 如果你的网站在子目录，这里需要填写，否则留空
+url: "https://leomei-han.github.io" # 你的网站网址
+# twitter_username: your_twitter_handle # 如果有推特
+github_username:  leomei-han # 你的GitHub用户名
+
+# --- 头像 ---
+avatar: "你的头像图片链接" # 建议使用图床链接
+
+# --- 构建设置 ---
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title.html # 文章链接格式，可以自定义
