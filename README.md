@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="photo/cd9ea1fe8e478bf5e9d9d1947b49b06f.JPG" width="150" alt="avatar" style="border-radius:50%;"/>
+  <img src="photo/C37E79A4-CA4F-4AE2-92DC-2D245EBE6D2F.png" width="150" alt="avatar" style="border-radius:50%;"/>
   <h1>Junhan's Blog (宁俊涵)</h1>
   <p><strong>欢迎来到宁俊涵的博客！</strong></p>
 </div>
@@ -29,12 +29,7 @@
 #### 【总结】
 - 🔬 []()
 - 🔬 []()
-- 🔬 []()
-- 🔬 []()
-- 🔬 []()
-- 🔬 []()
-- 🔬 []()
-- 🔬 []()
+
 
 #### 【学习笔记 】
 - 💡 []()
