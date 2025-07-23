@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="150" alt="avatar" style="border-radius:50%;"/>
+  <img src="photo/cd9ea1fe8e478bf5e9d9d1947b49b06f.JPG" width="150" alt="avatar" style="border-radius:50%;"/>
   <h1>Junhan's Blog (宁俊涵)</h1>
   <p><strong>欢迎来到宁俊涵的博客！</strong></p>
 </div>
@@ -41,6 +41,3 @@
 - 💡 [产业视角](https://cubewatermelon.github.io/post/chan-ye-shi-jiao.html)
 
 ---
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/972b9dce-9e96-41f4-aee4-3c669f7383ca" alt="Research Overview" style="max-width: 80%;"/>
-</div>
