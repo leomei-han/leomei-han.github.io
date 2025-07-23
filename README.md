@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d51c2a6-20da-4a45-bcdf-32a2eb49e653" width="150" alt="avatar" style="border-radius:50%;"/>
+  <img src="" width="150" alt="avatar" style="border-radius:50%;"/>
   <h1>Junhan's Blog (宁俊涵)</h1>
   <p><strong>欢迎来到宁俊涵的博客！</strong></p>
 </div>
