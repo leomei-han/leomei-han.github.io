@@ -1,22 +1,22 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8d51c2a6-20da-4a45-bcdf-32a2eb49e653" width="150" alt="avatar" style="border-radius:50%;"/>
-  <h1>Yuchen's Blog (宋裕琛)</h1>
-  <p><strong>欢迎来到宋裕琛的博客！</strong></p>
+  <h1>Junhan's Blog (宁俊涵)</h1>
+  <p><strong>欢迎来到宁俊涵的博客！</strong></p>
 </div>
 
 ---
 
 ### 👋 关于我 (About Me)
 
-你好！我是**宋裕琛 (Yuchen Song)**。
+你好！我是**宁俊涵 (Yuchen Song)**。
 
-目前正在北京邮电大学攻读博士学位，导师是 [王丹石](https://see.bupt.edu.cn/info/1051/2196.htm) 教授。欢迎对我们研究方向感兴趣的同学报考咨询！
+目前是北京邮电大学计算机学院大二学生，欢迎对北邮感兴趣的同学志愿咨询！
 
-我的主要研究兴趣包括：
-- 宽带光网络的性能建模与优化 (Optical performance modeling and optimization in wideband optical networks)
-- 光网络数字孪生 (Digital twin of optical networks - DTON)
-- 物理信息机器学习 (Physics-informed machine learning)
-- 面向光网络的大模型 (Large models for optical networks)
+在这里你会看到：
+- 北邮人论坛一些精选内容
+- 杂七杂八的总结与笔记
+
+ 
 
 ---
 
