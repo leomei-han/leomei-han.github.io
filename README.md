@@ -8,9 +8,9 @@
 
 ### 👋 关于我 (About Me)
 
-你好！我是**宁俊涵 (Yuchen Song)**。
+你好！我是**宁俊涵 (Junhan Ning)**。
 
-目前是北京邮电大学计算机学院大二学生，欢迎对北邮感兴趣的同学志愿咨询！
+目前是北京邮电大学计算机学院大二学生，欢迎一起交流！
 
 在这里你会看到：
 - 北邮人论坛一些精选内容
@@ -22,11 +22,11 @@
 
 ### 📝 博文列表 (Posts)
 
-#### 【科研感受】
+#### 【北邮人论坛精选内容】
 - 📄 [如何进行科研学术阅读](https://cubewatermelon.github.io/post/%E3%80%90-ke-yan-gan-shou-%E3%80%91-ru-he-jin-xing-ke-yan-xue-shu-yue-du.html)
 - 📄 [如何进行科研学术写作](https://cubewatermelon.github.io/post/%E3%80%90-ke-yan-gan-shou-%E3%80%91-ru-he-jin-xing-ke-yan-xue-shu-xie-zuo.html)
 
-#### 【论文列表】
+#### 【】
 - 🔬 [AI exploration](https://cubewatermelon.github.io/post/%E3%80%90-lun-wen-lie-biao-%E3%80%91AI%20exploration.html)
 - 🔬 [自动驾驶光网络](https://cubewatermelon.github.io/post/%E3%80%90-lun-wen-lie-biao-%E3%80%91-zi-dong-jia-shi-guang-wang-luo.html)
 - 🔬 [AI in Optical Networks](https://cubewatermelon.github.io/post/%E3%80%90-lun-wen-lie-biao-%E3%80%91AI%20in%20Optical%20Networks.html)
